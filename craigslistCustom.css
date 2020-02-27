@@ -107,7 +107,6 @@
     width: 100vw;
     text-align: center;
     color: #0047FF;
-    text-decoration: none;
     list-style: none;
     position: relative;
     display: inline-block;
@@ -123,6 +122,7 @@
    padding: 10px;
    padding-top: 25px;
    text-align: center;
+   text-decoration: underline;
   }
 
 footer {
@@ -244,6 +244,10 @@ footer {
     padding-top: 33%;
   }
 
+  .mainBody {
+    vertical-align: center;
+  }
+
   .searchBox {
     height: 120px;  
     display: inline-block;
@@ -276,17 +280,18 @@ footer {
 
   .categoryGroup {
     display: block;
-
   }
-
-
-
-
+  .categoryItem {
+    padding-top: 20px;
+    font-size: 22px;
+  }
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 600px) {
 
-
+  .searchInput {
+    width: 70%;
+  }
 
 
 
