@@ -149,12 +149,12 @@
 
 }
 
-@media only screen and (min-width: 1210px) {
+@media only screen and (max-width: 1210px) {
   .main {
     padding-top: 27%;
   }
   .searchInput {
-    width: 33%;
+    width: 30%;
   }
 }
 
