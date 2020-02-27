@@ -147,7 +147,7 @@ footer {
 
 }
 
-@media only screen and (max-width: 1210px) {
+@media only screen and (min-width: 1210px) {
   .main {
     padding-top: 27%;
   }
@@ -158,7 +158,7 @@ footer {
 
 }
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (min-width: 1000px) {
 
   .navItem {
     font-size: 20px;
@@ -207,7 +207,7 @@ footer {
 
 }
 
-@media only screen and (max-width: 850px) {
+@media only screen and (min-width: 850px) {
    
   .main {
     padding-top: 33%;
@@ -241,7 +241,7 @@ footer {
 
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (min-width: 700px) {
 
   .main {
     padding-top: 40%;
@@ -256,7 +256,7 @@ footer {
   }
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (min-width: 600px) {
 
   .searchInput {
     width: 70%;
@@ -265,8 +265,5 @@ footer {
   .main {
     padding-top: 50%;
   }
-
-
-
 
 }
