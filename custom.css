@@ -42,7 +42,7 @@
 
   }
   .main {
-    padding-top: 22%;
+    padding-top: 20%;
     vertical-align: center;
     font-family: serif;
     font-size: 75px;
@@ -291,6 +291,10 @@ footer {
 
   .searchInput {
     width: 70%;
+  }
+
+  .main {
+    padding-top: 50%;
   }
 
 
