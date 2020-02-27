@@ -42,7 +42,7 @@
 
   }
   .main {
-    padding-top: 25%;
+    padding-top: 22%;
     vertical-align: center;
     font-family: serif;
     font-size: 75px;
@@ -110,6 +110,13 @@
     text-decoration: none;
     list-style: none;
     position: relative;
+    display: inline-block;
+  }
+  .line1{
+    display: inline-block;
+  }
+  .line2{
+    display: inline-block;
   }
   .categoryItem {
    display: inline-block;
@@ -265,6 +272,11 @@ footer {
 
   .main {
     padding-top: 40%;
+  }
+
+  .categoryGroup {
+    display: block;
+
   }
 
 
