@@ -71,7 +71,7 @@
     }
     
     .searchInput {
-      width: 39%;
+      width: 35%;
       height: 30px;
       outline: 0;
       font-size: 16px;
@@ -149,7 +149,7 @@
 
 }
 
-@media only screen and (max-width: 1210px) {
+@media only screen and (max-width: 1250px) {
   .main {
     padding-top: 27%;
   }
