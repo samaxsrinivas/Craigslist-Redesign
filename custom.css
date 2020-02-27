@@ -154,12 +154,6 @@ footer {
   .searchInput {
     width: 33%;
     height: 30px;
-    outline: 0;
-    font-size: 16px;
-    display: inline-block;
-    background-color: #ECECEC;
-    vertical-align: center;
-    padding: 8px 4px;
   }
 
 }
@@ -167,10 +161,6 @@ footer {
 @media only screen and (max-width: 1000px) {
 
   .navItem {
-    clear: right;
-    clear: left;
-    display: inline-block;
-    opacity: 0.75;
     font-size: 20px;
 
   }
@@ -183,19 +173,11 @@ footer {
 
   }
   .searchBox {
-    text-align: center;
     height: 60px;
     border-radius: 12px;
     width: 65%;
-    margin: 0 auto;
-    background-color: #ECECEC;
-    vertical-align: center;
-    display: inline-block;
   }
   .searchIndicator {
-    padding-left: 10px;
-    padding-right: 10px;
-    font-weight: bold;
     font-size: 25px;
     vertical-align: center;
   }
@@ -204,35 +186,22 @@ footer {
     height: 40px;
     outline: 0;
     font-size: 25px;
-    display: inline-block;
-    background-color: #ECECEC;
-    vertical-align: center;
-    padding: 8px 4px;
   }
   .searchButton {
     text-align: center;
     width: 60px;
     height: 60px;
-    border-radius: 12px;
-    background-color: #B2B2B2;
-    display: inline-block;
-    vertical-align: bottom;
 
   }
   
   .searchIcon {
     height: 45px;
     width: 45px;
-    display: inline-block;
-    text-align: center;
-    vertical-align: center;
-    background-color: #B2B2B2;
   }
   .categoryItem {
    display: inline-block;
    padding: 10px;
    padding-top: 25px;
-   text-align: center;
    font-size: 20px;
   }
 
